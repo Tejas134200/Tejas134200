@@ -7,9 +7,9 @@
 ---
 
 ## 🧠 Competitive Programming
-- 🟦 **LeetCode Knight Badge** — 2000+ rating & 800+ problems solved  
-- ⭐ **CodeChef 3★ (Max Rating: 1670)**  
-- 🔥 **Codeforces Pupil (Max Rating: 1376)**  
+- 🟦 **LeetCode Knight Badge** — 2030 rating & 900+ problems solved  
+- ⭐ **CodeChef 3★ (Max Rating: 1700)**  
+- 🔥 **Codeforces Pupil (Max Rating: 1391)**  
 - 🧩 Strong in **DSA** — DP, Graphs, Trees, Greedy, MST, Recursion, Tries, Advanced Problems  
 - 🥇 IMO Gold Medalist (Mathematics Excellence)
 
