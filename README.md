@@ -4,7 +4,7 @@
 
 **Web Developer · Data Analyst · ML Enthusiast · Competitive Programmer**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20🏅%202150+-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian%20🏅%202150+-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-3★%201720-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%201450-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com)
 [![CGPA](https://img.shields.io/badge/CGPA-9.84%20%2F%2010-22c55e?style=flat-square&logo=academia&logoColor=white)](/)
